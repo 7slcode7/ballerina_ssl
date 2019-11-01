@@ -1,0 +1,63 @@
+[2019-10-31 13:42:07,058] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-10-31 14:08:26,227] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-10-31 14:57:27,349] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-10-31 16:48:18,417] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-11-01 10:16:30,055] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-11-01 10:29:00,527] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2019-11-01 10:40:23,225] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at lahiru.client.$value$_anonService_0__service_1.call(EventService_sample_client.bal)
+	at org.ballerinalang.jvm.values.connector.Executor.lambda$submit$0(Executor.java:71)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:486)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:237)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:207)
+	at java.lang.Thread.run(Thread.java:748)
+ 
